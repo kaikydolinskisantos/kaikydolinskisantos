@@ -1,5 +1,5 @@
 # Oi eu sou Kaiky
-Aluno do 2° ano do curso técnico em Desenvolvimento de Sistemas do CEEP-PG
+Aluno do 2° Ano do Curso Técnico em Desenvolvimento de Sistemas do CEEP-PG
 ## Conhecimentos
 - C
 - C++
